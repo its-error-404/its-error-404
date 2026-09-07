@@ -6,7 +6,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-Frontend%20%2F%20Full--stack-2ea44f?style=for-the-badge" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Chennai,%20India-Remote%20%7C%20Relocate-0e75b6?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Remote%20worldwide-or%20relocate%20in%20India-0e75b6?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Notice-30%20days-lightgrey?style=for-the-badge" alt="Notice period" />
   <img src="https://img.shields.io/badge/Experience-~3%20years-8957e5?style=for-the-badge" alt="Experience" />
 </p>
 
@@ -40,7 +41,7 @@ installable PWA, Sentry session replay, and a Vitest / RTL / MSW suite (~175 tes
 | **5** | production portals shipped — 2 healthcare, 3 workforce |
 | **460+** | screens built |
 | **390+** | API endpoints wired up |
-| **150+** | components in a shared library — published to npm, documented in Storybook |
+| **150+** | components in a shared library — published to npm, ~70% of the UI runs on it |
 | **300+** | test files kept green — Vitest · Jest · RTL · MSW |
 | **~40%** | of commits on the current healthcare product |
 
@@ -93,7 +94,7 @@ Next.js / SSR &nbsp;·&nbsp; backend depth (auth, multi-tenancy, data modelling)
 ---
 
 <p align="center">
-  <b>Open to frontend or full-stack roles.</b> &nbsp;
+  <b>Open to frontend or full-stack roles</b> — remote worldwide, or relocating within India · 30-day notice &nbsp;<br/><br/>
   <a href="https://www.linkedin.com/in/karthikeyan-a-dev/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:karthi.vmpak@gmail.com">karthi.vmpak@gmail.com</a>
 </p>
